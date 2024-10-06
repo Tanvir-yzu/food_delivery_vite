@@ -25,7 +25,7 @@ const Header: React.FC<HeaderProps> = ({
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <Utensils className="mr-2" />
-          <span className="text-xl font-bold">FoodDelivery</span>
+          <span className="text-xl font-bold">FoodDelivery App</span>
         </div>
         <nav>
           <ul className="flex space-x-4">
